@@ -3,9 +3,9 @@ Welcome to the Python Matplotlib Tutorials repository! This repository contains 
 
 ## Repository Structure
 
-- **src/**: Contains the Jupyter [Notebook files](/src/Numpy_Tutorial.ipynb) with the tutorials.
+- **src/**: Contains the Jupyter [Notebook files](/src/Matplotlib_Tutorial.ipynb) with the tutorials.
 - **dataset/**: Contains the datasets used in the tutorials.
-- **notebook.html**: An exported [HTML](Numpy_Tutorial.html) version of the notebook for a quick review.
+- **Matplotlib_Tutorial.html**: An exported [HTML](Matplotlib_Tutorial.html) version of the notebook for a quick review.
 
 ## Getting Started
 
